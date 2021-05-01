@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+.menu{
+    position: fixed;
+    height:50px;
+    width:100%;
+    background: black;
+    list-style: none;
+    margin-left: 0px;
+    z-index: 10;
+    
+}
+.links{
+    display:inline;
+    padding-left: 50px;
+    padding-right: 50px;
+    
+    font-size: 20px;
+}
+#home{
+    z-index: 9;
+    margin-top: 100px;
+}
+#main{
+    height: 450px;
+    width 450px;
+
+}
+.img2{
+    height: 200px;
+    width: 200px;
+    padding right:10px;
+}
+.row{
+    text-align: center;
+}
+#myCarousel
+{
+    background-color: azure;
+}
+
+#myCarousel img
+{
+    height: 300px;
+    margin-top: 35px;
+}
